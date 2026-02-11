@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LH Basic App GitHub", "LH Basic App GitHub\LH Basic App GitHub.csproj", "{E789CEE2-F6F2-4BA9-B849-31971BBD1704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LH_Basic_App_Core.Tests", "LH_Basic_App_Core.Tests\LH_Basic_App_Core.Tests.csproj", "{942EB723-2470-4EEE-AFE4-5D0B7F63DB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E789CEE2-F6F2-4BA9-B849-31971BBD1704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E789CEE2-F6F2-4BA9-B849-31971BBD1704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E789CEE2-F6F2-4BA9-B849-31971BBD1704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E789CEE2-F6F2-4BA9-B849-31971BBD1704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942EB723-2470-4EEE-AFE4-5D0B7F63DB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942EB723-2470-4EEE-AFE4-5D0B7F63DB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942EB723-2470-4EEE-AFE4-5D0B7F63DB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942EB723-2470-4EEE-AFE4-5D0B7F63DB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
